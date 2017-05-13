@@ -4,48 +4,39 @@ body {
 }
 
 h1 {
-  color: white;
   font-size: 70px;
   font-weight: bold;
-  }
+}
 
-  h2 {
-    font-size: 32px;
-    font-weight: bold;
-  }
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
 
-  h3 {
+h3 {
     font-size: 23px;
     font-weight: bold;
+}
 
-  }
-
-  /* add class for h3 */
-  h3 .classheader {
+.header {
     color: white;
-background-image: "./resources/images/the-flatiron-building.jpg";
-  }
+    background-image: "./resources/images/the-flatiron-building.jpg";
+}
 
-  p {
-    font-size: 12px;
-
-  }
-
-div {
-  background-image: "./resources/images/the-flatiron-building.jpg";
+p {
+    \ont-size: 12px;
 }
 
 a {
-  font-size: 18px;
-  color: white;
+    font-size: 18px;
+    color: white;
 }
 
 .footer {
-color: white;
-  font-size: 11px;
-  background-color: dimgray;
-}
+    color: white;
 
-a footer {
-  /*text?*/
+    background-color: dimgray;
 }
+ .copyright {
+       font-size: 11px;
+ }

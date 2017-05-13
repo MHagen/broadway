@@ -1,4 +1,4 @@
-body {
+html {
   text-align: center;
   font-family: helvetica;
 }
@@ -24,7 +24,7 @@ h3 {
 }
 
 p {
-    \ont-size: 12px;
+    font-size: 12px;
 }
 
 a {
@@ -34,7 +34,6 @@ a {
 
 .footer {
     color: white;
-
     background-color: dimgray;
 }
  .copyright {
